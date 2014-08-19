@@ -1,6 +1,6 @@
 {
   "name": "phonegap-vector-assets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create multiple resolution assets for phonegap applications directly from config.xml",
   "main": "index.js",
   "scripts": {
