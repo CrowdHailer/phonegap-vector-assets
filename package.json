@@ -1,0 +1,27 @@
+{
+  "name": "phonegap-vector-assets",
+  "version": "0.1.0",
+  "description": "Create multiple resolution assets for phonegap applications directly from config.xml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CrowdHailer/phonegap-vector-assets.git"
+  },
+  "keywords": [
+    "phonegap",
+    "cordova",
+    "icon",
+    "splashscreen",
+    "assets",
+    "build"
+  ],
+  "author": "Peter Saxton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrowdHailer/phonegap-vector-assets/issues"
+  },
+  "homepage": "https://github.com/CrowdHailer/phonegap-vector-assets"
+}
