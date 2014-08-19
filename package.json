@@ -4,7 +4,7 @@
   "description": "Create multiple resolution assets for phonegap applications directly from config.xml",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/minijasminenode2 test/index.js --verbose"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/CrowdHailer/phonegap-vector-assets/issues"
   },
-  "homepage": "https://github.com/CrowdHailer/phonegap-vector-assets"
+  "homepage": "https://github.com/CrowdHailer/phonegap-vector-assets",
+  "devDependencies": {
+    "minijasminenode2": "^1.0.0"
+  }
 }
