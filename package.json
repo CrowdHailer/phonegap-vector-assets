@@ -26,5 +26,8 @@
   "homepage": "https://github.com/CrowdHailer/phonegap-vector-assets",
   "devDependencies": {
     "minijasminenode2": "^1.0.0"
+  },
+  "bin": {
+    "crystallize": "./bin/crystallize.js"
   }
 }
